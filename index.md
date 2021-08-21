@@ -56,5 +56,6 @@ Odwrócił się i spojrzał na ekran cyfrometru z długim westchnięciem. Jeżel
 > JennyJenkins: Hey, links at the end are not working. What's up with that?
   > Second one is working now. I'm still working on getting a better signal.
   > If it doesn't work, i'll post some chunks anyway.
+> JerryIsComing: Wow, 96 seconds! That's actually pretty fast.
 ```
 [_Dziennik_](/dziennik.md)
