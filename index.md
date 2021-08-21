@@ -22,6 +22,11 @@ Alia spojrzał na zegarek elektroniczny, który zawibrował i ucichł.\
 > Czym jest naprawdę bułka z truskawkowym dżemem?\
 > Marsjanie?
 
+```
+> JerryIsComing: Wow, 96 seconds! That's actually pretty fast.
+```
+
+
 * * *
 ## Bułka z truskawkowym dżemem
 ###### Kraków, 10.08.2021
@@ -38,6 +43,12 @@ Alia podszedł do niewielkiego okna, obok którego zamocowana była klawiatura z
 > Czy Cris potrzebuje pomocy?\
 > Jak Ulrich zdołał trafić na listę najbardziej poszukiwanych hakerów w Układzie Słonecznym?\
 > Dla kogo _góra_ wykonuje rozkazy?
+
+```
+> Bumba: I can't really understand what does it mean :/
+  > Hey, don't worry. It doesn't mean much, I think so. I look at it as a bit surrealistic.
+  > I guess the net can come up with all kinds of weird paragraphs.
+```
 
 * * *
 ## NaN
@@ -56,6 +67,5 @@ Odwrócił się i spojrzał na ekran cyfrometru z długim westchnięciem. Jeżel
 > JennyJenkins: Hey, links at the end are not working. What's up with that?
   > Second one is up now. I'm still trying to get a better signal.
   > If it doesn't work, i'll post some chunks anyway.
-> JerryIsComing: Wow, 96 seconds! That's actually pretty fast.
 ```
 [_Dziennik_](/dziennik.md)
