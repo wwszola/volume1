@@ -46,7 +46,7 @@ Alia podszedł do niewielkiego okna, obok którego zamocowana była klawiatura z
 
 ```
 > Bumba: I can't really understand what does it mean :/
-  > Hey, don't worry. It doesn't mean much, I think so. I look at it as a bit surrealistic.
+  > Hey, don't worry. It doesn't mean much, I believe so. I look at it as a bit surrealistic.
   > I guess the net can come up with all kinds of weird paragraphs.
 ```
 
