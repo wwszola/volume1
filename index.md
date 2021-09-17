@@ -1,6 +1,16 @@
 [About](/about.md)
 #### Podróż po równoległych wymiarach w oknie Twojej przeglądarki!
 
+## 
+###### Kraków, 17.09.2021
+Cris siedział na fotelu nerwowo stukając palcami w marmurowy blat biurka. Fluorescencyjne żarówki zawieszone na suficie nagle zamigotały krótko i zgasły. Do pokoju wlewało się światło jedynie przez półprzezroczyste okna, które z zewnątrz pokryte były siatką paneli słonecznych zapewniajacych energię słoneczną całemu budynkowi. Cris podniósł się z fotela, a na jego twarzy pojawił grymas strachu. Do drzwi trzykrotnie zapukał Alia, otowrzył je i wszedł.\
+\- Chciałeś ze mną rozmawiać? Wiesz może dlaczego wszystkie światła zgasły? - zaczął.\
+\- Nie jest dobrze, ale nie mogę ci powiedzieć, to sprawa z _góry_. - odpowiedział Cris odchodząc od biurka, idąc szybko w stronę Alii wciąż przerażony. Żarówki na kilka sekund zaświeciły bardzo jasno i znów zgasły.\
+\- Teraz na pewno nie lepiej. Musisz powiedzieć mi o co chodzi. - zdecydowanie powiedział Alia. Cris westchnął i powiedział:\
+\- Ani słowa nikomu. Chociaż pewnie i tak wszyscy stąd wylecimy.\
+\* \* \*\
+Wchodząc do windy 
+
 ## Winda na 83 piętro
 ###### Kraków, 20.08.2021
 Dźwięk naciskanych klawiszy 54 klawiatur komputerowych wypełniał pokój. Przy jednej z klawiatur siedział Ulrich, sylwetką przypominający sosnę trafioną przez piorun, wpatrując się w ekran cyfrometru przez okrągłe okulary zawieszone nisko na nosie. Podszedł do niego Alia, postawił kubek na biurku Ulricha, a przystawiając sobie krzesło zaczął:\
