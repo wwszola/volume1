@@ -1,4 +1,4 @@
-[About](/about.md)
+[About](/about.md) | [Dziennik](/dziennik.md)
 #### Podróż po równoległych wymiarach w oknie Twojej przeglądarki!
 
 
@@ -23,4 +23,3 @@ Odwrócił się i spojrzał na ekran cyfrometru z długim westchnięciem. Jeżel
   > Second one is up now. I'm still trying to get a better signal.
   > If it doesn't work, i'll post some chunks anyway.
 ```
-[_Dziennik_](/dziennik.md)
