@@ -7,8 +7,4 @@
 > I'll pull you in. My name is ~~namnlös~~
 ```
 ###### _wwszola_
-[About _me_](/about_me.md)
-
-> Transkrypcja nagrania #1: _"...nagranie pierwsze, jest dzisiaj 19.08.2021, godzina: ...2:53. Prowadzę takiego blo AA!... zostaw! mnie, przestań... dobry pies, zaraz wyjdz..."_
-
-> Transkrypcja nagrania #2: _"...nagranie pierwsze, jest dzisiaj 19.08.2021, godzina: ...2:57. Prowadzę takiego bloga, ale... content jest tak jakby w oddzielnym uniwersum. Chciałbym zachować do tego kanon w porządnej formie... *fanfiction* miło widziany na oddzielnych gałęziach..."_
+###### [Co z energią z _toru_?](https://mlodytechnik.pl/technika/30494-co-z-energia-z-toru)
