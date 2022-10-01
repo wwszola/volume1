@@ -5,8 +5,8 @@
 
 ##### Lepiej teraz niż wcale
 ``` 
-[                  [                   ]
-[       ok         | good swedish fish |
-| ~~out of stock~~ ]  good and plenty  |
-|                  A                   ]
+[ -- -- -- -- -- -- | -- -- -- -- -- -- ]
+[        ok         | good swedish fish |
+|  ~~out of stock~~ ]  good and plenty  |
+| -- -- -- -- -- -- | -- -- -- -- -- -- ]
 ```
